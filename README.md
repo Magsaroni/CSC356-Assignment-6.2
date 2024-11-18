@@ -1,0 +1,1 @@
+Whenever I try and run the website, an error occurs. I provided the screenshots in both the two screenshots given, however I do have the code all down. I also may need help adding the link to the live webite, I am still confused how to do so.
